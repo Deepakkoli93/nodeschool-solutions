@@ -1,4 +1,4 @@
-My solutions to nodeschool.io
+My solutions to [nodeschool](http://nodeschool.io)
 
 * learnyounode
 * promise-it-wont-hurt
